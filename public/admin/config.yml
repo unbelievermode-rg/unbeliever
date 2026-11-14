@@ -1,7 +1,7 @@
 # Replace YOUR_GITHUB_USERNAME/YOUR_REPOSITORY below before using the CMS.
 backend:
   name: github
-  repo: bsatish417/portfolio
+  repo: unbelievermode-rg/unbeliever
   branch: main
   auth_methods: [token]
 
@@ -11,8 +11,8 @@ output:
 media_folder: /public/uploads
 public_folder: /uploads
 
-site_url: https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY
-display_url: https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY
+site_url: https://unbelievermode-rg.github.io/unbeliever/
+display_url: https://unbelievermode-rg.github.io/unbeliever/
 
 media_library:
   name: default
