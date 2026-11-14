@@ -11,6 +11,8 @@ draft: false
 
 [Exodus 21 NIV](https://www.biblegateway.com/passage/?search=Exodus%2021&version=NIV)
 
+[Step Bible Exodus 21 NIV](https://www.stepbible.org/?q=version=ESV@reference=Exod.21&options=HNVUG)
+
 **21** “These are the laws you are to set before them:
 
 ### Hebrew Servants
