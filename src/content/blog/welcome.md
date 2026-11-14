@@ -2,7 +2,7 @@
 title: slavery
 description: exodus 21, lev 25
 pubDate: 2026-01-15
-author: Alex Morgan
+author: Unbeliever
 tags:
   - Notes
   - Personal
