@@ -15,6 +15,8 @@ draft: false
 
 **21** “These are the laws you are to set before them:
 
+తెలుగు బైబిల్ చదవాలని, వినాలని, వచనాలు వెతకాలనో, అధ్యయనం చేయాలనో కోరుకునే వారికి ఇది ఉపయోగకరమైన ప్రారంభ పేజీ. పరిశుద్ధ గ్రంథము పుస్తకాలు, అధ్యాయాలు, వచనాలు, ఆడియో అధ్యాయాలు, రోజువారీ పఠన ప్రణాళిక, నిఘంటువు వంటి సౌకర్యాలను ఇక్కడ నుండి సులభంగా చేరుకోవచ్చు.
+
 ### Hebrew Servants
 
 **2** “If you buy a Hebrew servant, he is to serve you for six years. But in the seventh year, he shall go free, without paying anything. **3** If he comes alone, he is to go free alone; but if he has a wife when he comes, she is to go with him. **4** If his master gives him a wife and she bears him sons or daughters, the woman and her children shall belong to her master, and only the man shall go free.
