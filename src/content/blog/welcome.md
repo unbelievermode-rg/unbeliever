@@ -1,6 +1,6 @@
 ---
 title: slavery
-description: A first note about this site and what you'll find here.
+description: exodus 21, lev 25
 pubDate: 2026-01-15
 author: Alex Morgan
 tags:
