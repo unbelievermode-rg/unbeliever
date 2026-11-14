@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "About",
+      "url": "/about/"
+    },
+    {
+      "label": "Portfolio",
+      "url": "/portfolio/",
+      "children": [
+        {
+          "label": "Selected work",
+          "url": "/portfolio/",
+          "children": [
+            {
+              "label": "Test",
+              "url": "/Test/"
+            }
+          ]
+        },
+        {
+          "label": "Experiments",
+          "url": "/experiments/"
+        }
+      ]
+    },
+    {
+      "label": "Articles",
+      "url": "/blog/",
+      "children": [
+        {
+          "label": "All articles",
+          "url": "/blog/"
+        },
+        {
+          "label": "Topics",
+          "url": "/blog/#topics"
+        }
+      ]
+    },
+    {
+      "label": "Contact",
+      "url": "/contact/"
+    },
+    {
+      "label": "Test",
+      "url": "/Test/"
+    }
+  ]
+}
