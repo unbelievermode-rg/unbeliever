@@ -1,5 +1,5 @@
 ---
-title: Welcome to my corner of the internet
+title: slavery
 description: A first note about this site and what you'll find here.
 pubDate: 2026-01-15
 author: Alex Morgan
@@ -8,6 +8,7 @@ tags:
   - Personal
 draft: false
 ---
+
 # Welcome
 
 Thanks for stopping by. This is where I'll share ideas, lessons, experiments, and notes from the work I'm doing.
