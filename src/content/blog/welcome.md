@@ -1,26 +1,40 @@
 ---
-title: slavery
-description: exodus 21, lev 25
+title: నోవహు ఓడ కథ , Noah ark
+description: |-
+  దేవుడు perfect గా సృష్టించిన మనుషులను తానే చంపాలనుకున్నాడు, మళ్లీ కొందరిని పెట్టెలో పెట్టి కాపాడాడు. చెడ్డవాళ్లు పోయారా? నోవహు ఏం చేశాడు? బైబిల్ reference లతో వ్యంగ్యంగా చూద్దాం (Gen 6-9).
+  #Unbeliever #NoahsArk #Genesis #BibleContradictions #Telugu
 pubDate: 2026-01-15
 author: Unbeliever
 tags:
-  - Notes
-  - Personal
+  - '@noahark,'
 draft: false
 ---
 
-[Exodus 21 NIV](https://www.biblegateway.com/passage/?search=Exodus%2021&version=NIV)
+ఒక్కసారి కళ్లు మూసుకుని ఊహించుకోండి.
 
-[Step Bible Exodus 21 NIV](https://www.stepbible.org/?q=version=ESV@reference=Exod.21&options=HNVUG)
+ఆకాశం నుండి ఒక గొంతు వినిపిస్తోంది. ఆ గొంతు ఎవరిదో కాదు, perfect గా లోకాన్ని సృష్టించిన దేవుడిదే. 1500 సంవత్సరాలకు పైగా (Gen 5) తన సృష్టిని చూస్తూ చూస్తూ, ఆయన నిట్టూర్చాడు. "అరెరె, మనుషులను సృష్టించి తప్పు చేశానే!" (Gen 6:5-7). ఏం తప్పు? మనుషులు చెడ్డవాళ్లయ్యారట. సరే, ఇప్పుడేం చేద్దాం? Software update చేద్దామా? Bug fix చేద్దామా? లేదు. Delete all! మనుషులందరినీ చంపేద్దాం (Gen 6:17). జంతువులను కూడా, ఏం పాపం చేశాయో తెలియదు కానీ, వాటినీ చంపేద్దాం.
 
-**21** “These are the laws you are to set before them:
+కానీ ఒక్క మనిషి మాత్రం ఆయన కంట పడ్డాడు. నీతిమంతుడట. పేరు నోవహు (Gen 6:8-9).
 
-తెలుగు బైబిల్ చదవాలని, వినాలని, వచనాలు వెతకాలనో, అధ్యయనం చేయాలనో కోరుకునే వారికి ఇది ఉపయోగకరమైన ప్రారంభ పేజీ. పరిశుద్ధ గ్రంథము పుస్తకాలు, అధ్యాయాలు, వచనాలు, ఆడియో అధ్యాయాలు, రోజువారీ పఠన ప్రణాళిక, నిఘంటువు వంటి సౌకర్యాలను ఇక్కడ నుండి సులభంగా చేరుకోవచ్చు.
+ఇప్పుడు ఆ దృశ్యం చూడండి. ఒక ముసలాయన ఎండలో కూర్చుని, కొండంత పెద్ద చెక్క పెట్టె కడుతున్నాడు. ఊళ్లో వాళ్లందరూ వచ్చి చూస్తున్నారు. ఒక్క చుక్క వర్షం లేని ఆకాశం కింద, "ఏంటి తాత, ఈ పెద్ద పెట్టె?" అని నవ్వుతున్నారు. 
 
-### Hebrew Servants
+ఇక్కడే ఒక చిన్న twist. అన్నింటినీ చంపాలన్న దేవుడు, కొన్ని జంతువులను, కొంతమంది మనుషులను ఆ పెట్టెలో పెట్టి కాపాడమన్నాడు (Gen 6:18-21). అంటే తన సొంత plan నే తానే చెడగొట్టుకున్నాడు (Gen 6:13, 17). ఎప్పటికీ మారని దేవుడు, ఐదు నిమిషాల్లోనే మనసు మార్చుకున్నాడు.
 
-**2** “If you buy a Hebrew servant, he is to serve you for six years. But in the seventh year, he shall go free, without paying anything. **3** If he comes alone, he is to go free alone; but if he has a wife when he comes, she is to go with him. **4** If his master gives him a wife and she bears him sons or daughters, the woman and her children shall belong to her master, and only the man shall go free.
+ఇప్పుడు ఊహించండి. పెట్టె లోపల ఏనుగుల అరుపులు, సింహాల గర్జనలు, పాముల బుసలు. వాటి మధ్యలో నోవహు, అతని కుటుంబం (Gen 7:7-9). ఆ కుటుంబం కూడా అంత గొప్పదేం కాదు, చెడిపోయినదే (Gen 6:12). అయినా పర్వాలేదు, వాళ్లు "మన వాళ్లు" కదా.
 
-**5** “But if the servant declares, ‘I love my master and my wife and children and do not want to go free,’ **6** then his master must take him before the judges.\[[a](https://www.biblegateway.com/passage/?search=Exodus%2021&version=NIV#fen-NIV-2084a "See footnote a")] He shall take him to the door or the doorpost and pierce his ear with an awl. Then he will be his servant for life.
+తర్వాత ఆకాశం చీకటైంది. చినుకు, చినుకు, ధారగా, ప్రవాహంగా. 40 రోజులు ఆగకుండా వర్షం (Gen 7:12). నేల మీద నిలబడ్డ ఊరు నీళ్లలో మునిగింది. ఇళ్లు మునిగాయి. చెట్లు మునిగాయి. ఎత్తైన కొండలు కూడా మునిగాయి (Gen 8:9). ఆ నీళ్లు నెలల తరబడి అలాగే ఉన్నాయి (Gen 7:24). తేలుతున్న పెట్టె మీద నుండి నీళ్లు తప్ప ఇంకేమీ కనిపించడం లేదు (Gen 7:18). పెట్టె బయట ఉన్నవాళ్లు, పసిపిల్లలతో సహా, నీళ్లలో కొట్టుకుపోయి మునిగిపోయారు (Gen 7:21-23). అంతా నిశ్శబ్దం.
 
-**7** “If a man sells his daughter as a servant, she is not to go free as male servants do. **8** If she does not please the master who has selected her for himself,\[[b](https://www.biblegateway.com/passage/?search=Exodus%2021&version=NIV#fen-NIV-2086b "See footnote b")] he must let her be redeemed. He has no right to sell her to foreigners, because he has broken faith with her. **9** If he selects her for his son, he must grant her the rights of a daughter. **10** If he marries another woman, he must not deprive the first one of her food, clothing and marital rights. **11** If he does not provide her with these three things, she is to go free, without any payment of money.
+దేవుడు సంతోషంగా చెప్పాడేమో, "చూశారా, చెడ్డవాళ్లు లేరిక!" నిజమే, లోకంలో చెడ్డవాళ్లే లేరు. భూమి కూడా లేదు. ఎందుకంటే దేవుడు మనుషులతో పాటు భూమిని కూడా నాశనం చేస్తానన్నాడు కదా (Gen 6:13). ఇది ఏం మిగిలిందో అర్థం కావడం లేదు.
+
+చివరికి నీళ్లు తగ్గాయి. పెట్టె తలుపు తెరుచుకుంది. నోవహు కుటుంబం, జంతువులు బయటకు అడుగు పెట్టాయి. చుట్టూ నిశ్శబ్దం, బురద, శవాల వాసన. ఆ పరిస్థితిలో నీతిమంతుడైన నోవహు ఏం చేశాడో తెలుసా? మిగిలిన కొద్ది జంతువుల్లో కొన్నింటిని చంపి, నిప్పు పెట్టి కాల్చాడు (Gen 8:20).
+
+ఇప్పుడు ఆకాశంలో ఆ దేవుడు ఆ పొగను పీల్చాడు. ఆయనకు ఆ వాసన నచ్చింది (Gen 8:21). మాంచి barbecue వాసన కదా మరి! అందుకే ఎప్పటికీ మారని, ఎప్పుడూ నిజమే చెప్పే దేవుడు ఇలా అన్నాడు: "ఇంకెప్పుడూ అన్నింటినీ చంపను." ఎందుకో తెలుసా? అన్నీ చంపేస్తే కాల్చడానికి జంతువులు మిగలవు కదా!
+
+మళ్లీ మర్చిపోతానేమో అని, దేవుడు ఆకాశంలో ఒక ఇంద్రధనస్సు గీశాడు, తనకే గుర్తు చేసుకోవడానికి (Gen 9:12-16). చూడండి, సర్వజ్ఞుడికి కూడా reminder కావాలి! పైగా ఒక hint ఇచ్చాడు: తర్వాతిసారి వరద కాదు, అగ్ని వాడతాడట (Zep 1:2-3, 18; 3:8; 2 Pet 3:10).
+
+కథ అయిపోయిందనుకున్నారా? ఇంకా ఉంది. నీతిమంతుడైన నోవహు ద్రాక్షారసం తాగి, మత్తులో బట్టలు లేకుండా పడిపోయాడు. అతని కొడుకు హాము అది చూశాడు. మత్తు దిగాక నోవహుకి విషయం తెలిసింది. ఎవరిని శపించాడో తెలుసా? హామునే కాదు, ఏ తప్పూ చేయని హాము కొడుకు కనానును. "నువ్వు బానిసవు!" (Gen 9:20-27). ఈ నీతిమంతుడి నీతి ఇదే.
+
+కథ ఇక్కడితో సమాప్తం.
+
+**కథ యొక్క నీతి:**
+మానవజాతిని నాశనం చేయడం
