@@ -3,10 +3,11 @@ title: నోవహు ఓడ కథ , Noah ark
 description: |-
   దేవుడు perfect గా సృష్టించిన మనుషులను తానే చంపాలనుకున్నాడు, మళ్లీ కొందరిని పెట్టెలో పెట్టి కాపాడాడు. చెడ్డవాళ్లు పోయారా? నోవహు ఏం చేశాడు? బైబిల్ reference లతో వ్యంగ్యంగా చూద్దాం (Gen 6-9).
   #Unbeliever #NoahsArk #Genesis #BibleContradictions #Telugu
-pubDate: 2026-01-15
+pubDate: 2026-11-26
+updatedDate: 2026-11-26
 author: Unbeliever
 tags:
-  - '@noahark,'
+  - noahark, ark, flood,
 draft: false
 ---
 
