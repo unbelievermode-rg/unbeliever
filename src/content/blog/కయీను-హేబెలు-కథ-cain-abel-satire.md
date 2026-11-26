@@ -3,7 +3,7 @@ title: కయీను, హేబెలు కథ  Cain & Abel Satire
 description: |-
   దేవుడికి మాంసం నచ్చింది, పండ్లు నచ్చలేదు. తమ్ముణ్ణి చంపిన కయీనుకు దేవుడే రక్షణ ఇచ్చాడు. ఇదేం న్యాయం? బైబిల్ reference లతో వ్యంగ్యంగా చూద్దాం (Gen 4).
   #Unbeliever #CainAndAbel #Genesis #BibleContradictions #Telugu
-pubDate: 2026-11-27
+pubDate: 2026-11-26
 updatedDate: 2026-11-26
 author: Unbeliever
 tags:
