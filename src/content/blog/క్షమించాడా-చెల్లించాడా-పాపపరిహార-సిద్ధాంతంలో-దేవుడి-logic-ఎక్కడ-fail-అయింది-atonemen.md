@@ -3,7 +3,7 @@ title: క్షమించాడా? చెల్లించాడా? పా
 description: '"క్షమించాను" అన్న దేవుడు, అప్పు మాత్రం వసూలు చేశాడు. అదీ నేరం చేయని కొడుకు దగ్గర. ఇదేం న్యాయం? పాపపరిహార సిద్ధాంతాన్ని బైబిల్ reference లతో  చూద్దాం'
 pubDate: 2026-11-26
 updatedDate: 2026-11-26
-author: Your Name
+author: Unbeliever
 tags:
   - '#Unbeliever #Atonement #Jesus #BibleContradictions #Telugu, sin, forgiveness'
 draft: false
